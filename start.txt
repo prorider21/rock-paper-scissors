@@ -1,4 +1,5 @@
-package com.simple;  
+package com.simple;
+
 
 import java.util.Scanner;
 
